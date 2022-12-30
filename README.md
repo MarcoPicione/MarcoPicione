@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pic143
 - 👀 I’m interested in physics and computer science
-- 🌱 I’m currently attending a physics degree
+- 🌱 I have a physics bachelor degree and I’m currently attending an AI degree
 - 📫 How to reach me: marcopicione98@gmail.com
 
 <!---
