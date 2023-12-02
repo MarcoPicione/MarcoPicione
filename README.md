@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pic143
+- 👋 Hi, I’m @MarcoPicione
 - 👀 I’m interested in physics and computer science
 - 🌱 I have a physics bachelor degree and I’m currently attending an AI degree
 - 📫 How to reach me: marcopicione98@gmail.com
