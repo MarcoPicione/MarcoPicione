@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoPicione
 - 👀 I’m interested in physics and computer science
-- 🌱 I have a physics bachelor degree and I’m currently attending an AI degree
+- 🌱 I have a physics bachelor degree and I’m currently attending an AI master degree
 - 📫 How to reach me: marcopicione98@gmail.com
 
 <!---
